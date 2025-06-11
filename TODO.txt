@@ -1,0 +1,5 @@
+- Add LockManager to handle 1-hour Sunday unlock window
+- Add Overlay blocker service to enforce lockdown
+- Add manual JSON export/import feature
+- Display daily/weekly usage stats using Jetpack Compose
+- Add penalty logic for tampering and emergency unlocks
